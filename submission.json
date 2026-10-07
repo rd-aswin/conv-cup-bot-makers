@@ -1,0 +1,10 @@
+{
+  "name": "Bot Makers",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/legendary_rl.json"
+  ]
+}
